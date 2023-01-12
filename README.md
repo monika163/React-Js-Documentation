@@ -9,3 +9,5 @@ https://react-hook-form.com/
 
 https://reactjsexample.com/tag/table/
 
+https://bobbyhadz.com/blog/react-set-input-value-on-button-click
+
