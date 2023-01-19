@@ -13,3 +13,7 @@ https://bobbyhadz.com/blog/react-set-input-value-on-button-click
 
 https://github.com/orgs/wednesday-solutions/repositories
 
+https://learnhtmlcss.online/
+https://learnjavascript.online/app.html
+
+
