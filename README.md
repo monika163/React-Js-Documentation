@@ -11,8 +11,6 @@ https://reactjsexample.com/tag/table/
 
 https://bobbyhadz.com/blog/react-set-input-value-on-button-click
 
-https://github.com/orgs/wednesday-solutions/repositories
-
 https://learnhtmlcss.online/
 https://learnjavascript.online/app.html
 
@@ -24,5 +22,11 @@ https://jsoneditoronline.org/
 https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/
 codesandbox.com
 jsfiddle
+
+important github folder
+https://github.com/wednesday-solutions
+https://github.com/orgs/wednesday-solutions/repositories
+https://github.com/metapercept/CodeExcercise/blob/master/Excercise-2/ex2-spa.md
+https://github.com/priya42bagde?tab=repositories
 
 
