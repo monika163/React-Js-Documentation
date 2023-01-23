@@ -24,6 +24,8 @@ https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problem
 codesandbox.com
 jsfiddle
 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+
 important github folder
 https://github.com/wednesday-solutions
 https://github.com/orgs/wednesday-solutions/repositories
